@@ -1,0 +1,5 @@
+[project]
+name = "building-with-typesafe-jev"
+version = "0.1.0"
+description = "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects."
+requires-python = ">=3.10"
